@@ -1,30 +1,13 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code (Round 2) - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 23, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+**_ - Worked on my Quotes API Service _**
+**_ - Started Udemy's The Complete Web Development Bootcamp 2020 by Dr. Angela Yu _**
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
+**_ - After completing Freecodecamp's Legacy Full-Stack certification, I've decided to better my knowledge of web development and found Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu. I"ll be restarting my refresher in HTML and CSS. _**
+**_ - For my Quotes API Service, I'm working on rewriting my database module with Mongoose as well as setting up user registration/login with PassportJS. I"m having a bit of trouble getting the session to be saved and redirecting to the dashboard page after authentication. _**
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Quotes API](https://abrupt-playful-papaya.glitch.me)
