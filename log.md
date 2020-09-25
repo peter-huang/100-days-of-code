@@ -15,3 +15,18 @@
 **Link to work:**
 
 - [Quotes API](https://abrupt-playful-papaya.glitch.me)
+
+### Day 2: September 24, 2020
+
+**Today's Progress:**
+
+- Worked on my Quotes API Service
+- Completed codewars algorithm challenges
+
+**Thoughts:**
+
+- Refactoring some of the API's CRUD written in mongoDB into mongoose. Having an odd pending request error on subsequent API calls after the first.
+
+**Link to work:**
+
+- [Quotes API](https://abrupt-playful-papaya.glitch.me)
