@@ -30,3 +30,18 @@
 **Link to work:**
 
 - [Quotes API](https://abrupt-playful-papaya.glitch.me)
+
+### Day 3: September 25, 2020
+
+**Today's Progress:**
+
+- Worked on my Quotes API Service
+- Refresher HTML and CSS in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Refactored aggregation pipeline in compliance with Mongoose syntax as well as learned and implemented graceful shutdown on the Node environment/server.
+
+**Link to work:**
+
+- [Quotes API](https://abrupt-playful-papaya.glitch.me)
