@@ -45,3 +45,18 @@
 **Link to work:**
 
 - [Quotes API](https://abrupt-playful-papaya.glitch.me)
+
+### Day 4: September 26, 2020
+
+**Today's Progress:**
+
+- Worked on my Quotes API Service
+- Continued refresher learning of HTML and CSS in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Reading PassportJS and NodeJS documentations to better understand why my redirect after registration or user login is not functioning correctly.
+
+**Link to work:**
+
+- [Quotes API](https://abrupt-playful-papaya.glitch.me)
