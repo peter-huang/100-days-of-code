@@ -60,3 +60,13 @@
 **Link to work:**
 
 - [Quotes API](https://abrupt-playful-papaya.glitch.me)
+
+### Day 5: September 27, 2020
+
+**Today's Progress:**
+
+- Continued refresher learning of Intermediate CSS in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
