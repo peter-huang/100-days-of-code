@@ -70,3 +70,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 6: September 28, 2020
+
+**Today's Progress:**
+
+- 1/2 completed of the Intermediate CSS in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
