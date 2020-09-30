@@ -80,3 +80,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 7: September 29, 2020
+
+**Today's Progress:**
+
+- Completed the Intermediate CSS in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Good refresher on layouts using flex and grid.
