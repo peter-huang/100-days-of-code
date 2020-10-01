@@ -90,3 +90,13 @@
 **Thoughts:**
 
 - Good refresher on layouts using flex and grid.
+
+### Day 8: September 30, 2020
+
+**Today's Progress:**
+
+- Completed 1/2 of the Introduction to Bootstrap in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
