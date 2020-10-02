@@ -100,3 +100,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 9: October 1, 2020
+
+**Today's Progress:**
+
+- Completed Introduction to Bootstrap in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
