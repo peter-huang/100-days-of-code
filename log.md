@@ -110,3 +110,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 10: October 2, 2020
+
+**Today's Progress:**
+
+- Started Intermediate Bootstrap in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Learned Carousel and Cards
