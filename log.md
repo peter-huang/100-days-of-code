@@ -120,3 +120,13 @@
 **Thoughts:**
 
 - Learned Carousel and Cards
+
+### Day 11: October 3, 2020
+
+**Today's Progress:**
+
+- Completed Intermediate Bootstrap in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Great bootstrap and css refresher and learned some refactoring best practices from Angela.
