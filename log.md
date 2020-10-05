@@ -130,3 +130,13 @@
 **Thoughts:**
 
 - Great bootstrap and css refresher and learned some refactoring best practices from Angela.
+
+### Day 12: October 4, 2020
+
+**Today's Progress:**
+
+- Completed Web Design Bootstrap in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Interesting section regarding color theory, typography, and user interface design.
