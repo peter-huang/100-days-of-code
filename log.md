@@ -140,3 +140,13 @@
 **Thoughts:**
 
 - Interesting section regarding color theory, typography, and user interface design.
+
+### Day 13: October 5, 2020
+
+**Today's Progress:**
+
+- 1/3 of Introduction to Javascript ES6 in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Basic learning of variables, data types, string operations.
