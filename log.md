@@ -150,3 +150,13 @@
 **Thoughts:**
 
 - Basic learning of variables, data types, string operations.
+
+### Day 14: October 6, 2020
+
+**Today's Progress:**
+
+- Completed Introduction to Javascript ES6 in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
