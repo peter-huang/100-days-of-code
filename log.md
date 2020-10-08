@@ -160,3 +160,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 15: October 7, 2020
+
+**Today's Progress:**
+
+- Started Intermediate Javascript in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
