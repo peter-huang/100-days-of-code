@@ -170,3 +170,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 16: October 8, 2020
+
+**Today's Progress:**
+
+- Completed Intermediate Javascript in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Refresher on loops, conditions, array techniques.
