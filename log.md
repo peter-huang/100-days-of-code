@@ -180,3 +180,13 @@
 **Thoughts:**
 
 - Refresher on loops, conditions, array techniques.
+
+### Day 17: October 9, 2020
+
+**Today's Progress:**
+
+- Completed Introduction to Document Object Model and DOM Manipulation in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
