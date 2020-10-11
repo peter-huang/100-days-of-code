@@ -190,3 +190,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 18: October 10, 2020
+
+**Today's Progress:**
+
+- Completed Random Dicee, Drum Kit projects as well as the JQuery and Unix Command Line modules in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Refresher on Event Listener and JQuery syntaxes. Learned about unix command line.
