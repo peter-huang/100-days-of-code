@@ -200,3 +200,13 @@
 **Thoughts:**
 
 - Refresher on Event Listener and JQuery syntaxes. Learned about unix command line.
+
+### Day 19: October 11, 2020
+
+**Today's Progress:**
+
+- Completed Simon Game project as well as Node module in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Refresher on creating a NodeJS environment
