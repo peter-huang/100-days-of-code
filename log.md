@@ -210,3 +210,13 @@
 **Thoughts:**
 
 - Refresher on creating a NodeJS environment
+
+### Day 20: October 12, 2020
+
+**Today's Progress:**
+
+- Completed Node + ExpressJS and API modules in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Learned about JSON Viewer extension for Chrome and Nodemon for auto-restarting server based on code changes.
