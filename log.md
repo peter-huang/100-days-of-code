@@ -220,3 +220,13 @@
 **Thoughts:**
 
 - Learned about JSON Viewer extension for Chrome and Nodemon for auto-restarting server based on code changes.
+
+### Day 21: October 13, 2020
+
+**Today's Progress:**
+
+- Completed Git, GitHub, Version Control module in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
