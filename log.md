@@ -230,3 +230,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 22: October 14, 2020
+
+**Today's Progress:**
+
+- Completed EJS module in Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Interesting templating engine (EJS) and refresher on module exports in NodeJS.
