@@ -240,3 +240,13 @@
 **Thoughts:**
 
 - Interesting templating engine (EJS) and refresher on module exports in NodeJS.
+
+### Day 23: October 15, 2020
+
+**Today's Progress:**
+
+- Worked on ToDo List and Blog projects on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Interesting templating engine (EJS) and refresher on module exports in NodeJS.
