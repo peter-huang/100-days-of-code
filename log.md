@@ -250,3 +250,13 @@
 **Thoughts:**
 
 - Interesting templating engine (EJS) and refresher on module exports in NodeJS.
+
+### Day 24: October 16, 2020
+
+**Today's Progress:**
+
+- Completed on SQL and MongoDB modules on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Refresher in relational and non-relational databases.
