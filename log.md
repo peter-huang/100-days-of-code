@@ -260,3 +260,13 @@
 **Thoughts:**
 
 - Refresher in relational and non-relational databases.
+
+### Day 25: October 17, 2020
+
+**Today's Progress:**
+
+- Worked on To-Do List, implementing individual user cookie-session on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Refresher in relational and non-relational databases.
