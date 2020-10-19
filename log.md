@@ -270,3 +270,13 @@
 **Thoughts:**
 
 - Refresher in relational and non-relational databases.
+
+### Day 26: October 18, 2020
+
+**Today's Progress:**
+
+- Completed Mongoose module on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- Refresher in Mongoose schema and syntaxes.
