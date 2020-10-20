@@ -280,3 +280,14 @@
 **Thoughts:**
 
 - Refresher in Mongoose schema and syntaxes.
+
+### Day 27: October 19, 2020
+
+**Today's Progress:**
+
+- Completed Heroku Deployment and Configuration on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+- Learned more Github from [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+
+**Thoughts:**
+
+- N/A
