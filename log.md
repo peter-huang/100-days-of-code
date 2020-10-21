@@ -291,3 +291,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 28: October 20, 2020
+
+**Today's Progress:**
+
+- Completed some 7ku Codewar challenges
+
+**Thoughts:**
+
+- N/A
