@@ -301,3 +301,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 29: October 21, 2020
+
+**Today's Progress:**
+
+- ToDoList App, re-implementing front-end UI while learning react-bootstrap (1/2) completed
+
+**Thoughts:**
+
+- N/A
