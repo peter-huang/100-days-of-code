@@ -311,3 +311,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 30: October 22, 2020
+
+**Today's Progress:**
+
+- Completed some 7ku Codewar challenges
+
+**Thoughts:**
+
+- N/A
