@@ -321,3 +321,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 31: October 23, 2020
+
+**Today's Progress:**
+
+- Completed 1/3 of Restful API module on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
