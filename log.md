@@ -341,3 +341,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 34: October 26, 2020
+
+**Today's Progress:**
+
+- Completed Authentication and Security on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
