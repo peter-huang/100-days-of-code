@@ -351,3 +351,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 35: October 27, 2020
+
+**Today's Progress:**
+
+- Completed React (JSX) module on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
