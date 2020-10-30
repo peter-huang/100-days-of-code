@@ -361,3 +361,14 @@
 **Thoughts:**
 
 - N/A
+
+### Day 36/37: October 28/29, 2020
+
+**Today's Progress:**
+
+- Worked on personal NodeJS boilerplate for backend project initialization.
+- Completed ToDo List application on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
