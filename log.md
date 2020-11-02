@@ -372,3 +372,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 38/39/40: October 30/31, November 1, 2020
+
+**Today's Progress:**
+
+- Completed React Inline Styling, Babel, React Components and Props on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
