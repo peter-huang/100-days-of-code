@@ -393,12 +393,22 @@
 
 - N/A
 
-### Day 42 - 46: November 2, 2020
+### Day 42 - 46: November 7, 2020
 
 **Today's Progress:**
 
 - Continued more React Learning on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
 - Started wireframing / redesign / code my personnel website
+
+**Thoughts:**
+
+- N/A
+
+### Day 47 - 48: November 8-9, 2020
+
+**Today's Progress:**
+
+- Continued more React Learning on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
 
 **Thoughts:**
 
