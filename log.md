@@ -423,3 +423,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 52 - 54: November 13-15, 2020
+
+**Today's Progress:**
+
+- Continued more React Learning on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+
+**Thoughts:**
+
+- N/A
