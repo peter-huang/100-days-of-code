@@ -443,3 +443,15 @@
 **Thoughts:**
 
 - N/A
+
+### Day 56 and 57: November 17-18, 2020
+
+**Today's Progress:**
+
+- Continued more React Learning on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+- Completed some @codewars challenges
+- Reading up on React Native
+
+**Thoughts:**
+
+- N/A
