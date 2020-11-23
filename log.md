@@ -455,3 +455,14 @@
 **Thoughts:**
 
 - N/A
+
+### Day 58-63: November 19-23, 2020
+
+**Today's Progress:**
+
+- Continued more React Learning on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu
+- Reading up and trying simple project in Flutter
+
+**Thoughts:**
+
+- N/A
