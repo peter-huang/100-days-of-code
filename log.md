@@ -476,3 +476,13 @@
 **Thoughts:**
 
 - N/A
+
+### Day 68-69: November 28-29, 2020
+
+**Today's Progress:**
+
+- Continued more React Learning on Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu.
+
+**Thoughts:**
+
+- N/A
