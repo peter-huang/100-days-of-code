@@ -486,3 +486,14 @@
 **Thoughts:**
 
 - N/A
+
+### Day 70-75: November 30 - December 5, 2020
+
+**Today's Progress:**
+
+- Completed Udemy's Complete Web Development Bootcamp 2020 by Dr. Angela Yu.
+- Continued React Native Learning
+
+**Thoughts:**
+
+- N/A
